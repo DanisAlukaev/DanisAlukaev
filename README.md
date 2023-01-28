@@ -17,6 +17,17 @@ I'm R&D Machine Learning engineer from Innopolis working on interpretable algori
 - Simulation modelling
 - Quantum programming
 
+### 👨‍💻 Technology Stack
+- Python, C++, C, Java
+- UNIX-like operating systems, Git
+- PyTorch, Tensorflow, Gradient Boosting, Hadoop, Spark
+- qiskit, IBM Quantum
+- Django, Flask, aiohttp, aiogram 
+- PostgreSQL, Oracle Database, SQLite, MongoDB, Neo4j
+- AWS, Ansible, Docker, Terraform, K8s, GitHub Actions, Yandex Tank
+- Celery, Gunicorn, nginx, RabbitMQ
+- Vue.js
+
 <br>
 
 Interested in me? — here is how to reach: \
