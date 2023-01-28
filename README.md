@@ -3,6 +3,7 @@ I'm R&D in Machine Learning from Innopolis working on interpretable algorithms.
 
 ### 🚀 Projects
 - Automatic essay evaluator [Linguask](https://github.com/Vitsyn-Morgunov-and-Nikulin/automatic-essay-evaluator) for assessing natural language text by syntax, cohesion, vocabulary etc. Special attention is given to quality ensuring techniques to (partially) automate routine operations and restrict programmers from violating style rules and designing non-working code.
+- Сlosed-source package `spiner` used in AI Lab of Innopolis University to measure vertebrae morphometry, determine Cobb angles, and detect osteoporosis.
 - Open-source app [Doctorinna](https://github.com/Doctorinna) for determining the user's risk group for various diseases. This project was mentioned by [Yegor Bugayenko](https://github.com/yegor256) in his [blog post](https://www.yegor256.com/2021/12/01/teaching.html).
 - Closed-source package `purelung` used in AI Lab of Innopolis University. This package is an Albumentations-integrable library for suppressing bone shadows, context aware image crop, image segmentation, and auto inverse in the Chest X-ray images.  
 
