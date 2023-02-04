@@ -14,6 +14,7 @@ I'm R&D Machine Learning engineer from Innopolis working on interpretable algori
 ### 🔥 Special Skills
 - Deep Learning
 - Adversarial attacking and defense
+- MLOps
 - Simulation modelling
 - Quantum programming
 
@@ -21,6 +22,7 @@ I'm R&D Machine Learning engineer from Innopolis working on interpretable algori
 - Python, C++, C, Java
 - UNIX-like operating systems, Git
 - PyTorch, Tensorflow, Gradient Boosting, Hadoop, Spark
+- ClearML, Weights & Biases, Hydra
 - qiskit, IBM Quantum
 - Django, Flask, aiohttp, aiogram 
 - PostgreSQL, Oracle Database, SQLite, MongoDB, Neo4j
