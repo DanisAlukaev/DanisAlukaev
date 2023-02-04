@@ -2,7 +2,7 @@
 
 ### 🙂 About me
 
-- I bring discipline & quality to your business!
+- Bringing clarity to your team!
 
 ### 🚀 Projects
 - Automatic essay evaluator [Linguask](https://github.com/Vitsyn-Morgunov-and-Nikulin/automatic-essay-evaluator) for assessing natural language text by analytical measures, e.g., vocabulary, syntax, cohesion etc. Special attention is given to quality ensuring techniques that (partially) automate routine operations and restrict programmers from violating style rules and designing non-working code.
