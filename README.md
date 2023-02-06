@@ -7,7 +7,7 @@
 - Closed-source `albumentations`-integrable package `purelung` used in AI Lab of Innopolis University for suppressing bone shadows, context-aware image crop, image segmentation, and auto-inverse operation in the Chest X-ray images.  
 
 ### 🧬 Research
-- European Spine Journal (Q1): <i>"A deep learning framework for vertebral morphometry and Cobb angle measurement with external validation"</i>, available [online](https://doi.org/10.1007/s00586-022-07245-4).
+- European Spine Journal (Q1): <i>"A deep learning framework for vertebral morphometry and Cobb angle measurement with external validation"</i>, available [online](https://doi.org/10.1007/s00586-022-07245-4), under supervision of [Bulat Ibragimov](https://scholar.google.com/citations?user=IPQZ4bkAAAAJ) (Prof. in University of Copenhagen, h-index 26).
 - Currently working on inherently interpretable machine learning architecture under supervision of [Ivan Titov](http://ivan-titov.org) (Prof. in University of Edinburgh, h-index 45).
 
 ### 🔥 Special Skills
