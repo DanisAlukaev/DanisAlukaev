@@ -23,7 +23,7 @@ I'm R&D Machine Learning engineer from Innopolis working on interpretable algori
 - Python, C++, C, Java
 - UNIX-like operating systems, Git
 - PyTorch, Tensorflow, Gradient Boosting, Hadoop, Spark
-- ClearML, Weights & Biases, Hydra
+- ClearML, Weights & Biases, Hydra, Optuna
 - qiskit, IBM Quantum
 - Django, Flask, aiohttp, aiogram 
 - PostgreSQL, Oracle Database, SQLite, MongoDB, Neo4j
