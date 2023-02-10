@@ -18,6 +18,7 @@ I'm R&D Machine Learning engineer from Innopolis working on interpretable algori
 - MLOps
 - Simulation modelling
 - Quantum programming
+- Branding / Visioning
 
 ### 👨‍💻 Technology Stack
 - Python, C++, C, Java
