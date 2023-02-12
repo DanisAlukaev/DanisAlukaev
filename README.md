@@ -15,6 +15,7 @@ I'm R&D Machine Learning engineer from Innopolis working on interpretable algori
 ### 🔥 Special Skills
 - Deep Learning
 - Adversarial attacking and defense
+- Interpretable Machine Learning 
 - MLOps
 - Simulation modelling
 - Quantum programming
